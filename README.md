@@ -3,9 +3,15 @@ An instagram bot with the ability to reply to DMs using machine learning. Used 3
 
 #####
 Instructions:
+
 Go to IMESSAGE_COLLECTOR FOLDER
+
 Use messagescrape to gather imessages from an apple computer. clean_messages.ipynb is used to clean the messages
+
 Return to root folder
+
 Run seq2seqpy3 to train the model
+
 Input your username and password and the person you want to reply to into the appropriate locations in main.py
+
 Run Main.py
