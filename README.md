@@ -14,4 +14,8 @@ Run seq2seqpy3 to train the model
 
 Input your username and password and the person you want to reply to into the appropriate locations in main.py
 
-Run Main.py
+Run Main.py 
+
+Alternatively, run BotTest.py to talk to the AI without using instagram
+
+
